@@ -63,7 +63,7 @@ set CMD_LINE_ARGS=%*
 :execute
 @rem Setup the command line
 
-set CLASSPATH=%APP_HOME%\lib\Communism-1.0.jar
+set CLASSPATH=%APP_HOME%\lib\Communism-2.1.jar
 
 @rem Execute Communism
 "%JAVA_EXE%" %DEFAULT_JVM_OPTS% %JAVA_OPTS% %COMMUNISM_OPTS%  -jar "%CLASSPATH%" %CMD_LINE_ARGS%

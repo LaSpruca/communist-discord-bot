@@ -8,7 +8,7 @@ import net.dv8tion.jda.api.JDABuilder;
 import javax.security.auth.login.LoginException;
 
 public class OURMain {
-    private static final String token = "NTk2MTAwMDQ0ODIyOTM3NjMw.XaErSQ.mB8w05ycq7yp4iebzBYvxuDszv4";
+    private static final String token = "NTk2MTAwMDQ0ODIyOTM3NjMw.XaFq7Q.6ezQ_Yr6wVpdsXttbRadSxJbOo8";
     public static void main(String[] args) throws LoginException {
         JDABuilder builder = new JDABuilder(AccountType.BOT);
         builder.setToken(token);
