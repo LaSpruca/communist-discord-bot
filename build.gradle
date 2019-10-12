@@ -5,7 +5,11 @@ plugins {
 
 mainClassName = 'me.nathan.OURMain'
 
+<<<<<<< HEAD
+version '2.2'
+=======
 version '2.1'
+>>>>>>> c95cee5bcfa286d77d21aafe7793fc8348db359c
 sourceCompatibility = targetCompatibility = 1.8
 
 repositories {

@@ -14,6 +14,7 @@ public class GreatLeader extends ListenerAdapter {
             if (event.getChannelType() == ChannelType.TEXT){
                 MessageChannel channel = event.getChannel();
                 channel.sendMessage("<@" + event.getGuild().getOwnerId() + "> is our great leader!").queue();
+                event.getAuthor().getName();
             }
         }
     }
