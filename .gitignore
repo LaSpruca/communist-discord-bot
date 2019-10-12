@@ -1,11 +1,7 @@
-<<<<<<< HEAD
+.build/
 .gradle/
+.idea
 gradle
-.idea/
-build/
-src/main/java/me/nathan/Auth.java
-=======
-./.gradle/**
-./.idea/**
-./build/**
->>>>>>> c95cee5bcfa286d77d21aafe7793fc8348db359c
+gradlew.bat
+gradlew
+
