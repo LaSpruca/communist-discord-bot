@@ -1,7 +1,9 @@
 .build/
 .gradle/
 .idea
+build
 gradle
 gradlew.bat
 gradlew
 
+src/main/java/me/nathan/Auth.java
